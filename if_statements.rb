@@ -64,3 +64,9 @@ end
 
 cups_of_flour = 1
 has_sauce = true
+
+if cups_of_flour >=2 && has_sauce = true
+  p "I can make a pizza!"
+else 
+  p "I can not make a pizza"
+end
